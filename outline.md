@@ -1,0 +1,11 @@
+-Cách tạo file php
+-Xuất chuỗi trên php
+-Biến
+-Kiểu dữ liệu
+-Phép toán
+-Cấu trúc if-else
+-Vòng lặp for
+-Hàm
+-Nhận dữ liệu từ form POST-GET
+-Làm quen với mảng
+-Vòng lặp for-each xuất dữ liệu mảng
